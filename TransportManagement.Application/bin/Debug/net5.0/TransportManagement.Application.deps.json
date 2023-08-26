@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TransportManagement.Application/1.0.0": {
+        "dependencies": {
+          "TransportManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TransportManagement.Application.dll": {}
+        }
+      },
+      "TransportManagement.Domain/1.0.0": {
+        "runtime": {
+          "TransportManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransportManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TransportManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

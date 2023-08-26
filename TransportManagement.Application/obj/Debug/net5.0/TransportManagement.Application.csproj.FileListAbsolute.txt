@@ -1,0 +1,15 @@
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\bin\Debug\net5.0\TransportManagement.Application.deps.json
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\bin\Debug\net5.0\TransportManagement.Application.dll
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\bin\Debug\net5.0\TransportManagement.Application.pdb
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\TransportManagement.Application.csproj.AssemblyReference.cache
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\TransportManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\TransportManagement.Application.AssemblyInfoInputs.cache
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\TransportManagement.Application.AssemblyInfo.cs
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\TransportManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\TransportManagement.Application.dll
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\refint\TransportManagement.Application.dll
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\TransportManagement.Application.pdb
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\ref\TransportManagement.Application.dll
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\bin\Debug\net5.0\TransportManagement.Domain.dll
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\bin\Debug\net5.0\TransportManagement.Domain.pdb
+C:\Users\hming\source\repos\TransportManagement\TransportManagement.Application\obj\Debug\net5.0\TransportManagement.Application.csproj.CopyComplete
